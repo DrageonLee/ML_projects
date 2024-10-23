@@ -6,7 +6,6 @@ Welcome to **Drageon**'s Machine Learning Projects repository! 🎉 This reposit
 - [Overview](#overview)
 - [Projects](#projects)
 - [Getting Started](#getting-started)
-- [Contact](#contact)
 
 ## Overview
 
