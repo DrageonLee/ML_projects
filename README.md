@@ -15,8 +15,8 @@ This repository contains various machine learning projects I've worked on as par
 
 | **Project Title**                                    | **Description**                                                                                         |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [#4. Music Genre Classification](./\#4.%20Music%20Genre%20Classification/README.md) | A classification project where I built a model to classify music into different genres using audio features and machine learning algorithms. |
-| [#3. Anomaly Detection in Credit Card Transactions](./\#3.%20Anomaly%20Detection%20in%20Credit%20Card%20Transactions/README.md) | A project focused on detecting fraudulent credit card transactions using unsupervised learning techniques.  |
+| [#4. Music Genre Classification](./%234.%20Music%20Genre%20Classification/README.md) | A classification project where I built a model to classify music into different genres using audio features and machine learning algorithms. |
+| [#3. Anomaly Detection in Credit Card Transactions](./%233.%20Anomaly%20Detection%20in%20Credit%20Card%20Transactions/README.md) | A project focused on detecting fraudulent credit card transactions using unsupervised learning techniques.  |
 
 More projects will be added soon. Stay tuned!
 
